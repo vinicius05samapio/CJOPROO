@@ -1,0 +1,8 @@
+﻿  Brick Breaker.cpp
+D:\visual STUDIOO\JOGO PAULO\Brick Breaker\Brick Breaker\Brick Breaker.cpp(40,56): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+D:\visual STUDIOO\JOGO PAULO\Brick Breaker\Brick Breaker\Brick Breaker.cpp(40,56): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+D:\visual STUDIOO\JOGO PAULO\Brick Breaker\Brick Breaker\Brick Breaker.cpp(40,84): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+D:\visual STUDIOO\JOGO PAULO\Brick Breaker\Brick Breaker\Brick Breaker.cpp(40,84): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+  Brick Breaker.vcxproj -> D:\visual STUDIOO\JOGO PAULO\Brick Breaker\x64\Debug\Brick Breaker.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.
